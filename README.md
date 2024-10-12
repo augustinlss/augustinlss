@@ -92,7 +92,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-git-master-augustinlss-projects.vercel.app/api?username=augustinlss&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats-dwik9wz6k-augustinlss-projects.vercel.app/api?username=augustinlss&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
